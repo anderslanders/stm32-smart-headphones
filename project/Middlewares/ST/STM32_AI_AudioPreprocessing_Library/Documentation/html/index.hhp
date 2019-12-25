@@ -1,0 +1,68 @@
+[OPTIONS]
+Compiled file=STM32_AI_AudioPreprocessing_Library.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=STM32_AI_AudioPreprocessing_Library
+
+[WINDOWS]
+main="STM32_AI_AudioPreprocessing_Library","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+common__tables_8h_source.html
+dct_8h_source.html
+feature__extraction_8h_source.html
+mel__filterbank_8h_source.html
+window_8h_source.html
+common__tables_8h.html
+dct_8h.html
+feature__extraction_8h.html
+mel__filterbank_8h.html
+window_8h.html
+common__tables_8c.html
+dct_8c.html
+feature__extraction_8c.html
+mel__filterbank_8c.html
+window_8c.html
+group__group_d_c_t.html
+group__group_feature.html
+group__group_mel_filterbank.html
+group__group_window.html
+struct_d_c_t___instance_type_def.html
+struct_log_mel_spectrogram_type_def.html
+struct_mel_filter_type_def.html
+struct_mel_spectrogram_type_def.html
+struct_mfcc_type_def.html
+struct_spectrogram_type_def.html
+dir_f93dfce691d792349f1c14ede440e2e6.html
+dir_413f4e031a85da0d68269c6fd2f76e1c.html
+index.html
+modules.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+files.html
+globals.html
+globals_func.html
+globals_vars.html
+globals_enum.html
+globals_eval.html
+globals_defs.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png

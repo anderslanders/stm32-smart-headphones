@@ -1,0 +1,4 @@
+app_x-cube-ai.c:72:5:aiInit	64	static
+app_x-cube-ai.c:103:5:aiRun	24	static
+app_x-cube-ai.c:133:6:MX_X_CUBE_AI_Init	8	static
+app_x-cube-ai.c:145:6:MX_X_CUBE_AI_Process	24	static

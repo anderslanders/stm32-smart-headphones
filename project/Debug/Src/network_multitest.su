@@ -1,0 +1,9 @@
+network_multitest.c:443:9:network_multitest_configure_activations	24	static
+network_multitest.c:477:9:network_multitest_configure_weights	24	static
+network_multitest.c:521:9:ai_network_multitest_get_info	128	static
+network_multitest.c:568:10:ai_network_multitest_get_error	16	static
+network_multitest.c:574:10:ai_network_multitest_create	24	static
+network_multitest.c:584:11:ai_network_multitest_destroy	16	static
+network_multitest.c:590:9:ai_network_multitest_init	24	static
+network_multitest.c:605:8:ai_network_multitest_run	24	static
+network_multitest.c:612:8:ai_network_multitest_forward	16	static
