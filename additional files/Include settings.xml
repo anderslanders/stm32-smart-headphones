@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="s,S">
+<includepath/>
+
+</language>
+<language name="C Source File">
+<includepath>Inc</includepath>
+<includepath>Drivers/CMSIS/Include</includepath>
+<includepath>Drivers/CMSIS/Device/ST/STM32F7xx/Include</includepath>
+<includepath>Core/Inc</includepath>
+<includepath>X-CUBE-AI</includepath>
+<includepath>Middlewares/ST/AI/Inc</includepath>
+<includepath>Drivers/CMSIS/DSP/Source/MatrixFunctions</includepath>
+<includepath>Drivers/STM32F7xx_HAL_Driver/Inc</includepath>
+<includepath>Drivers/STM32F7xx_HAL_Driver/Inc/Legacy</includepath>
+<includepath>X-CUBE-AI/App</includepath>
+<includepath>/Users/andersliss/Downloads/STM32Cube_FW_F7_V1.15.0/Drivers/BSP/STM32746G-Discovery</includepath>
+<includepath>/Users/andersliss/Downloads/STM32Cube_FW_F7_V1.15.0/Drivers/BSP/Components</includepath>
+<includepath>/Users/andersliss/Downloads/STM32Cube_FW_F7_V1.15.0/Drivers/CMSIS/DSP/Source</includepath>
+<includepath>/Users/andersliss/Downloads/STM32Cube_FW_F7_V1.15.0/Drivers/CMSIS/DSP/Include</includepath>
+<includepath>/Users/andersliss/Google Drive/Dokument/Resurser/CubeMX/STM32CubeFunctionPack_SENSING1_V3.0.0/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Inc</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="s,S">
+
+</language>
+<language name="C Source File">
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>STM32F746xx</name><value/>
+</macro>
+<macro>
+<name>ARM_MATH_CM7</name><value/>
+</macro>
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+<macro>
+<name>__FPU_PRESENT</name><value>1</value>
+</macro>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>
