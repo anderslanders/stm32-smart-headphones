@@ -35,5 +35,5 @@ Resources for the master thesis done in the autumn of 2019. Title of thesis: IMP
  - Navigate to Source Location
  - Choose "Add Folder" and choose: "Middleware -> ST -> STM32_AI_AudioPreprocessing_Library -> Src"
 3. Finally, the the following function calls need to be replaced:
- - void MX_X_CUBE_AI_Process() -> void MX_X_CUBE_AI_Process(ai_float *input, ai_float *output); in Inc/app_x-cube-ai.h
- - void MX_X_CUBE_AI_Process() -> void MX_X_CUBE_AI_Process(ai_float *input, ai_float *output) in Src/app_x-cube-ai.c
+ - void *MX_X_CUBE_AI_Process()* -> *void MX_X_CUBE_AI_Process(ai_float *input, ai_float *output)* in Inc/app_x-cube-ai.h
+ - *void MX_X_CUBE_AI_Process()* -> *void MX_X_CUBE_AI_Process(ai_float *input, ai_float *output)* in Src/app_x-cube-ai.c
