@@ -18,7 +18,7 @@ Resources for the master thesis done in the autumn of 2019. Title of thesis: IMP
 1. In file additional files/Models: Unzip preferred network type trained with specific sample length and number of mel-bins.
  - Within are also training, testing and validation data. Validation data can be used with the X-Cube AI to validate the network.
 3. On STM32CubeIDE: Open project file "project.ioc"
- - In pinout view, navigate to "Additional Software"
+ - In "Pinout & Configuration", navigate to "Additional Software"
  - Choose "STMicroelectronics.X-Cube-AI 4.0.0 Mode and Configuration"
  - In the configuration window, navigate to "network_multitest"
  - Choose Keras network to implement as "Saved Model" and load the .h5 model file.
